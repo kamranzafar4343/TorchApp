@@ -68,7 +68,7 @@ class _TorchLiteState extends State<TorchLite> {
             height: size.height * 0.2,
           ),
           const Text(
-            "Developed with Kamran Zafar",
+            "Developed by Kamran Zafar",
             style: TextStyle(
                 color: Color.fromARGB(255, 255, 255, 255), fontSize: 14.0),
           ),
