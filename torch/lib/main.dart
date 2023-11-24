@@ -1,3 +1,5 @@
+// this thing only works in mobile
+
 import 'package:flutter/material.dart';
 import 'package:torch/torch_lite.dart';
 import 'package:torch_controller/torch_controller.dart';
@@ -15,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Caveman Torch',
+      title: 'Torch App',
       theme: ThemeData(
         primarySwatch: Colors.amber,
       ),
