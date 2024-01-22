@@ -1,6 +1,5 @@
 # TorchApp
 
-![Project Image]
 
 > A mobile-only application for using the torch feature on your device.
 
